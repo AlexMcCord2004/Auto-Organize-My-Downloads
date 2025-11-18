@@ -10,6 +10,7 @@ and more.
 - Creates folders on the fly (Images, Documents, Archives, Code, Installers, Other)
 - Safe: only moves files inside your Downloads folder
 - Simple, readable code – great starter automation project
+- Includes an UNDO function 
 
 ## Setup
 
